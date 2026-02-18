@@ -1,0 +1,48 @@
+# =====================
+# Python
+# =====================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# =====================
+# Virtual environment
+# =====================
+.venv/
+venv/
+ENV/
+
+# =====================
+# Django
+# =====================
+db.sqlite3
+*.log
+media/
+staticfiles/
+
+# =====================
+# Environment variables
+# =====================
+.env
+.env.*
+
+# =====================
+# PyCharm
+# =====================
+.idea/
+
+# =====================
+# OS
+# =====================
+.DS_Store
+Thumbs.db
+
+# =====================
+# Tests / coverage
+# =====================
+.pytest_cache/
+.coverage
+htmlcov/
+
+
